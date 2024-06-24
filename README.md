@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20SungChan's%20GitHub!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20SungChan's%20GitHub!&fontSize=50)
 
 Welcome to SungChan's GitHub!
 
@@ -10,7 +10,6 @@ Welcome to SungChan's GitHub!
 
 ![Tech & Tools](https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
 
 
 
