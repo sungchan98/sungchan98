@@ -7,7 +7,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Tech & Tools](https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode)
+![Tech & Tools](https://skillicons.dev/icons?i=java,js,html,css,springboot)
 
 
 
