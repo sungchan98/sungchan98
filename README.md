@@ -10,4 +10,7 @@ Welcome to SungChan's GitHub!
 
 ![Tech & Tools](https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode)
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
+
+
 
