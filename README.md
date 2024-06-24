@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Welcome%20to%20SungChan's%20GitHub!&fontSize=40&fontColor=FFFF00&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=3000&section=header&text=Welcome%20to%20SungChan's%20GitHub!&fontSize=40&fontColor=#00FF00&animation=fadeIn)
 
 ## 📈 GitHub Stats
 
