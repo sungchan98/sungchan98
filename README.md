@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungchan98&layout=compact&theme=swift)
 
 ## 🔥 GitHub 활동
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sungchan98&bg_color=0e0e0e&color=ffffff&line=ff5f6d&point=ffc371&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sungchan98&bg_color=0e0e0e&color=ffffff&line=ff5f6d&point=ffc371&area=true&hide_border=true)
 
 
 ## 🔧 Technologies & Tools
